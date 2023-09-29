@@ -137,7 +137,7 @@ p {
 }
 
 .task46 {
-  grid-template-areas: 'first second' 'third fourth';
+  grid-template-areas: "first second" "third fourth";
 }
 .task46 .item1 {
   grid-area: first;
